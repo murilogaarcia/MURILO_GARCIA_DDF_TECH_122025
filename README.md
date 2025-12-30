@@ -178,8 +178,7 @@ O projeto é totalmente reproduzível a partir dos scripts e notebooks disponív
 O passo a passo completo está em:
 /reproducibilidade/README.md
 
-yaml
-Copiar código
+
 
 Inclui:
 - Execução do ETL
