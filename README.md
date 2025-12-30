@@ -48,7 +48,7 @@ Metabase (Dashboards)
 
 MURILO_GARCIA_DDF_TECH_122025/
 │
-├── venv/              👈 AQUI
+├── venv/              
 │   └── Scripts/
 │       └── activate
 │
