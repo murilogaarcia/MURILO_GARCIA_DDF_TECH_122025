@@ -171,6 +171,9 @@ Ver:
 
 ---
 
+# Power BI
+  - Também foi feito um DashBoard no Power Bi como forma de complemento do projeto e mais uma opção de vizualização
+
 # ♻️ Reprodutibilidade
 
 O projeto é totalmente reproduzível a partir dos scripts e notebooks disponíveis.
