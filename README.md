@@ -46,28 +46,22 @@ Metabase (Dashboards)
 
 # 📁 Estrutura do Repositório
 
-.
+MURILO_GARCIA_DDF_TECH_122025/
+│
+├── venv/              👈 AQUI
+│   └── Scripts/
+│       └── activate
+│
 ├── arquitetura/
-│ └── arquitetura.md
 ├── dadosfera/
-│ └── catalogo.md
 ├── pipeline/
-│ └── pipeline.md
 ├── queries/
-│ └── queries.md
 ├── reproducibilidade/
-│ └── README.md
 ├── notebooks/
-│ ├── ETL_Case_DDF_TECH_dez2025.ipynb
-│ └── Data_Quality_Teste.ipynb
 ├── scripts/
-│ ├── Data_Quality.py
-│ └── Migrate_Neon.py
 ├── prints/
-│ ├── datasets.png
-│ ├── pipeline.png
-│ ├── dashboard.png
-│ └── snowflake.png
+├── app.py
+├── requirements.txt
 └── README.md
 
 ---
